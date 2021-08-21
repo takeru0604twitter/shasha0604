@@ -1,0 +1,151 @@
+.b{
+    position: relative;   
+    
+}
+
+.c{
+    position: relative;
+    margin-left: 20px;
+}
+   
+.d{
+    position: relative;
+    margin-left: 200px;
+    font-size: 40px;
+    bottom: 100px;
+    border-bottom: 2px solid #100;
+    padding: 5px;
+    display: inline-block;
+}
+
+.e{
+    position: relative;
+    margin-left: 900px;
+    font-size: 20px;
+}
+
+.a{
+    color: white;
+    font-size:30px;
+    background-color: rgba(0, 0, 0, 0.76);
+    display:inline-block;
+    position:relative;
+    margin-left: 550px;
+}
+
+.s{
+    position: relative;
+    margin-left: 700px;
+    display: flex;
+    direction: row;
+    padding: 20px;
+}
+
+.q{
+    direction: row;
+    display: flex;
+}
+
+img{
+    width: 2000px;
+    height: 600px;
+    object-fit: cover;
+    width:1950px; 
+    height:600px;
+}
+
+.r{
+    position: relative;
+    border-radius: 50px;
+    width: 100px;
+    height: 100px;
+    margin-left: 600px;
+    margin-top: 50px;
+    top: 150px;
+    left: 150px;
+}
+
+.t1{
+    position: relative;
+    margin-left: 900px;
+}
+
+.y{
+    font-size: 40px;
+    margin-top: 200px;
+    margin-left: 900px;
+    border-bottom: 2px solid #100;
+    padding: 5px;
+    display: inline-block;
+}
+
+.p1{
+    position: relative;
+    width: 300px;
+    height: 200px;
+    
+    left: 600px;
+}
+
+.p2{
+    position: relative;
+    width: 300px;
+    height: 200px;
+    
+    left: 600px;
+}
+
+.p3{
+    position: relative;
+    width: 300px;
+    height: 200px;
+    
+    left: 600px;
+}
+
+.p{
+    position: relative;
+   right: 100px;
+    direction: row;
+    padding: 50px;
+}
+
+.t2{
+    position: relative;
+    margin-left: 600px;
+    bottom: 45px;
+}
+
+.t3{
+    position: relative;
+    margin-left: 1250px;
+    bottom: 70px;
+}
+
+.t4{
+    position: relative;
+    margin-left: 950px;
+    bottom: 100px;
+}
+
+.t5{
+    position: relative;
+    margin-left: 580px;
+    bottom: 90px;
+}
+
+.t6{
+    position: relative;
+    margin-left: 930px;
+    bottom: 120px;
+}
+
+.t7{
+    position: relative;
+    margin-left: 1235px;
+    bottom: 140px;
+}
+
+.h{
+    margin-left: 1000px;
+}
