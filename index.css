@@ -25,13 +25,14 @@
 }
 
 .a{
-    color: white;
-    font-size:30px;
-    background-color: rgba(0, 0, 0, 0.76);
-    display:inline-block;
-    position:relative;
+    position: relative;
+    width: 100px;
+    height: 45px;
     margin-left: 550px;
+ 
+
 }
+
 
 .s{
     position: relative;
@@ -47,10 +48,9 @@
 }
 
 img{
-    width: 2000px;
-    height: 600px;
+    
     object-fit: cover;
-    width:1950px; 
+    width:1920px; 
     height:600px;
 }
 
