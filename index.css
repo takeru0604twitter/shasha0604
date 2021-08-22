@@ -70,25 +70,25 @@ img{
 
 .p1{
     position: relative;
-    width: 300px;
-    height: 200px;
-    
+    width: 270px;
+    height: 180px;
+    padding: 8px;
     left: 600px;
 }
 
 .p2{
     position: relative;
-    width: 300px;
-    height: 200px;
-    
+    width: 270px;
+    height: 180px;
+    padding: 8px;
     left: 600px;
 }
 
 .p3{
     position: relative;
-    width: 300px;
-    height: 200px;
-    
+    width: 270px;
+    height: 180px;
+    padding: 8px;
     left: 600px;
 }
 
